@@ -1,0 +1,33 @@
+DB CONNECTION COMPLETED !
+Record has been added.
+Record has been added.
+Record has been added.
+Record has been added.
+Record has been added.
+Record has been added.
+
+Fetching done. Total row number: 6
+
+Printing names...
+Buffalo
+Butch
+Jesse
+Tom
+Nat
+Billy
+
+Printing surnames...
+Bill
+Cassidy
+James
+Ketchum
+Love
+the Kid
+
+Printing titles...
+Junior Developer
+Senior Developer
+Group Manager
+Software Architect
+CTO
+Product Owner
